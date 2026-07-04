@@ -57,16 +57,27 @@ The dataset contains the following features:
 
 
 1\. Import Libraries
+
 2\. Load Dataset
+
 3\. Exploratory Data Analysis (EDA)
+
 4\. Data Cleaning
+
 5\. Feature Engineering (Car\_Age)
+
 6\. Data Visualization
+
 7\. Encoding Categorical Variables
+
 8\. Train-Test Split
+
 9\. Model Training
+
 10\. Model Evaluation
+
 11\. Feature Importance Analysis
+
 12\. Prediction and Conclusion
 
 
@@ -114,9 +125,13 @@ The dataset contains the following features:
 
 
 1\. Clone this repository.
+
 2\. Install the required libraries:
+
 &#x20;  pip install -r requirements.txt
+
 3\. Open 'CodeAlpha\_CarPricePrediction.ipynb' in Jupyter Notebook.
+
 4\. Run all cells sequentially.
 
 
